@@ -1,0 +1,2 @@
+statystyka -> analiza mocy testu -> rozk³ad prawdopodobieñstwa -> rozk³ad dwumianowy
+statystyka -> kalkulator prawdopodobieñstawa -> rozk³ady
