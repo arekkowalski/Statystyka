@@ -1,29 +1,33 @@
 1. Dane -> Przekoduj dane
-statystyka -> analiza mocy testu -> rozk≥ad prawdopodobieÒstwa -> rozk≥ad dwumianowy
+statystyka -> analiza mocy testu -> rozk≈Çad prawdopodobie≈Ñstwa -> rozk≈Çad dwumianowy
 
 Zadanie 1
-H0:m1=m2 (úrednie d≥ugoúci úrednic komÛrek w plastrach sπ rÛwne)
+H0:m1=m2 (≈õrednie d≈Çugo≈õci ≈õrednic kom√≥rek w plastrach sƒÖ r√≥wne)
 
-H1:m1 rÛøne od m2(úrednie d≥ugoúci úrednic komÛrek z pierwszego Ula rÛøniπ siÍ od  úrednich d≥ugoúci úrednic komÛrek z drugiego Ula)
+H1:m1 r√≥≈ºne od m2(≈õrednie d≈Çugo≈õci ≈õrednic kom√≥rek z pierwszego Ula r√≥≈ºniƒÖ siƒô od  ≈õrednich d≈Çugo≈õci ≈õrednic kom√≥rek z drugiego Ula)
 
-Wykres normalnoúci
+Wykres normalno≈õci
 
 Dla testu w Shapiro-Wilka p=0,6862 (dla Ula pierwszego) i p=0,9935 (dla Ula drugiego).
-W obu przypadkach p>alfa, zatem nie ma podstaw do odrzucenia hipotezy o normalnoúci
-rozk≥adu w obu grupach.
+W obu przypadkach p>alfa, zatem nie ma podstaw do odrzucenia hipotezy o normalno≈õci
+rozk≈Çadu w obu grupach.
 
 test tstudenta dla zmiennych
 
-zaznaczyÊ test levene'a i browna
+zaznaczyƒá test levene'a i browna
 
 Dla testu Browna-Forsytha p=0,74, dla testu Levene'a
-p=0,75, dla testu F p=0,68; p>alfa, zatem nie ma podstaw do odrzucenia hipotezy o rÛwnoúci wariancji w obu grupach.
+p=0,75, dla testu F p=0,68; p>alfa, zatem nie ma podstaw do odrzucenia hipotezy o r√≥wno≈õci wariancji w obu grupach.
 
 Dla testu t-Studenta p=0,11>0,10
 Nie ma podstaw do odrzucenia hipotezy H0.
 
 Zadanie 2
 
-Statystyka -> kalkulator prawdopodobieÒstw -> rozk≥ady -> rozk≥ad normalny
+Statystyka -> kalkulator prawdopodobie≈Ñstw -> rozk≈Çady -> rozk≈Çad normalny
 
 p = 0,767826
+
+W Excelu:
+=ROZK≈Å.NORMALNY(186;176;10;PRAWDA)
+=1 - ROZK≈Å.NORMALNY(170;176;10;PRAWDA)
